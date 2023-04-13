@@ -1,2 +1,2 @@
 Hello World!
-This is a test from a seperate computer!
+This is a second test from a different computer!
